@@ -1,4 +1,4 @@
-Self taught Python wannabe ( C++ wip )
+Self taught Python programmer ( C++ WIP hopefully )
 
 Interested in: Game Hacking / Malware analysis / Computer Vision
 
